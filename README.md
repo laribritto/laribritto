@@ -4,9 +4,9 @@
 
 # 👋 Hello! Welcome to my Github profile.
 
-:earth_americas: Brazil  :sunflower: 24 years old 
-
 ## My name is Larissa Martins!
+
+:earth_americas: Brazil  :sunflower: 24 years old 
 
 🔭 I'm currently immersed in my master's project, delving into the intricacies of mitochondrial DNA analysis.
 
