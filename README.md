@@ -1,5 +1,5 @@
 <p align = "center"> 
-  <img width="100%" src="https://github.com/laribritto/laribritto/blob/main/desenvolve%20(2).png](https://github.com/laribritto/laribritto/blob/main/desenvolve%20(2)(1).png">
+  <img width="100%" src="https://github.com/laribritto/laribritto/blob/main/desenvolve%20(2).png">
 </p>
 
 # 👋 Hello! Welcome to my Github profile.
