@@ -24,4 +24,4 @@
 </div>
 
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=laribritto_icons=true)
