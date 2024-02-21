@@ -24,4 +24,4 @@
 </div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laribritto_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laribritto&hide_icons=true)
