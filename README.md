@@ -4,7 +4,7 @@
 
 # 👋 Hello! Welcome to my Github profile.
 
-## My name is Larissa Martins and my nickname is "Lucy"!
+## My name is Larissa Martins!
 
 🔭 I'm currently immersed in my master's project, delving into the intricacies of mitochondrial DNA analysis.
 
@@ -16,3 +16,8 @@
 
 💬 Have a question about anything? I'm all ears and ready to engage in meaningful conversations.
 
+# Find me here!
+
+<div>
+  <a href="https://www.linkedin.com/in/larissa-martins-brito-e-silva-2b93671a8/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
